@@ -1,0 +1,38 @@
+body{
+	background: black;
+	font-family: 'Merriweather', serif;
+	color: #FDB827;
+}
+
+h1{
+	font-size:300%;
+	text-align: center;
+}
+
+.shadow {
+  text-shadow: 0 0 10px #33297B, 0 0 10px #33297B, 0 0 10px #33297B, 0 0 10px #33297B, 0 0 10px #33297B;
+}
+
+.intro{
+	text-align: center;
+	font-size: 200%;
+}
+ 
+ .bubble{
+ 	display: inline-block;
+ }
+
+p{color: purple;
+
+}
+.record{
+font-size: 1000%;
+text-align: center;
+ text-shadow: 0 0 10px #FDB827, 0 0 10px #FDB827, 0 0 10px #FDB827, 0 0 10px #FDB827, 0 0 10px #FDB827;
+}
+
+.quote{
+	font-size: 800%;
+text-align: center;
+	 text-shadow: 0 0 10px #FDB827, 0 0 10px #FDB827, 0 0 10px #FDB827, 0 0 10px #FDB827, 0 0 10px #FDB827;
+}
